@@ -1,0 +1,17 @@
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.Form1.resources
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\bin\Debug\net8.0-windows\variasImagenes.exe
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\bin\Debug\net8.0-windows\variasImagenes.deps.json
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\bin\Debug\net8.0-windows\variasImagenes.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\bin\Debug\net8.0-windows\variasImagenes.dll
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\bin\Debug\net8.0-windows\variasImagenes.pdb
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.dll
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\refint\variasImagenes.dll
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.pdb
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\variasImagenes.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\Proyectos Winform\variasImagenes\obj\Debug\net8.0-windows\ref\variasImagenes.dll
